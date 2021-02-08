@@ -1,0 +1,20 @@
+var g_data = {
+d6:{directives:[{dummy:0}
+,{cr:'c',z:'COVER_PSEL',h:'2206051',c:'g'}
+],
+scopes:[{link:'z.htm?f=0&s=6',val:'work.apb_if'}]},
+d30:{directives:[{dummy:0}
+,{cr:'c',z:'COVER_PSEL',h:'2206051',c:'g'}
+],
+scopes:[{s:'29',b:'0',val:'uart_tb'},{link:'z.htm?f=0&s=30',val:'APB'}]},
+d27:{directives:[{dummy:0}
+,{cr:'c',z:'cover__END_OF_APB_TRANSFER',h:'168541',c:'g'}
+],
+scopes:[{link:'z.htm?f=0&s=27',val:'work.apb_monitor'}]},
+d176:{directives:[{dummy:0}
+,{cr:'c',z:'cover__END_OF_APB_TRANSFER',h:'168541',c:'g'}
+],
+scopes:[{s:'29',b:'1',val:'uart_tb'},{link:'z.htm?f=0&s=176',val:'APB_PROTOCOL_MONITOR'}]},
+dummyEnd:0
+};
+processDirectivesData(g_data,1);
